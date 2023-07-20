@@ -2,7 +2,7 @@
 
 ### Statistics 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=qquentinv&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=qquentinv&show_icons=false&count_private=true">
 
 <!--
 **qquentinv/qquentinv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
