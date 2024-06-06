@@ -1,12 +1,7 @@
 ### Hi, I'm Quentin, a software engineer 👋
 
-## Skills
+### Technologies
 
-#### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,next,vuejs,html,css,js,tailwind)
-
-#### Backend
-![Backend](https://skillicons.dev/icons?i=symfony,laravel,php,docker)
-
-#### Database
-![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+| Frontend | Backend | Database & Tools |
+|----------|---------|------------------|
+| ![Frontend](https://skillicons.dev/icons?i=react,next,vuejs,html,css,js,tailwind) | ![Backend](https://skillicons.dev/icons?i=symfony,laravel,php,docker) | ![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,mongodb) |
