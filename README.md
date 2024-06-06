@@ -13,7 +13,7 @@
 ![Backend Technologies](https://skillicons.dev/icons?i=symfony,laravel,docker)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mariadb,postgres,mongodb)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,neovim,figma)
