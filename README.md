@@ -1,18 +1,14 @@
-### Hi, my name is Quentin 👋
-### I'm software engineer !
+### Hi, my name is Quentin and i am software engineer 👋
 
 ## Skills
 
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=php,js,go,python)
+#### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,next,vuejs,html,css,js,tailwind)
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vuejs,html,css,tailwind)
+#### Backend
+![Backend](https://skillicons.dev/icons?i=symfony,laravel,php,docker)
 
-#### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=symfony,laravel,docker)
-
-#### Database & Tools
+#### Database
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
 #### Other tools & Technologies
