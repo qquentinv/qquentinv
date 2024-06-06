@@ -1,4 +1,4 @@
-### Hi, my name is Quentin and i am software engineer 👋
+### Hi, I'm Quentin, a software engineer 👋
 
 ## Skills
 
